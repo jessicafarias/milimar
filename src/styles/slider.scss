@@ -1,0 +1,72 @@
+
+.text_slider {
+  width: 90%;
+  margin: auto;
+  padding-top: 15px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.upercase {
+  text-transform: uppercase;
+}
+
+.span_title {
+  width: 90%;
+  margin: auto;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: small;
+  padding-top: 9px;
+  border-bottom: 2px solid #edf0a39f;
+}
+
+.index {
+  z-index: -1;
+}
+
+/* content */
+.image {
+  height: 60vh;
+  width: 100%;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
+}
+
+#spritzer {
+  background: transparent;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
+}
+
+#uberuns {
+  top: 70%;
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.486);
+  background-position: center center;
+}
+
+#uberuns::after {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.tag_slider {
+  color: #dfdd60;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: xx-small;
+  margin-left: 10px;
+}
+
+.carousel-inner .item { transition: all 0.5s ease !important; }

@@ -1,0 +1,22 @@
+.navbar {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 10000;
+  height: 20vh;
+}
+
+.bgc-blue {
+  background-color: rgb(52, 165, 209);
+}
+
+.st0 {
+  enable-background: new;
+}
+.st1 {
+  fill: #e2ffdf;
+}
+
+.style {
+  enable-background: new 0 0 947 214;
+}
