@@ -1,5 +1,6 @@
 {
-  "name": "catalogue_of_recipes",
+  "homepage": "https://jessicafarias.github.io/milimar",
+  "name": "milimar",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

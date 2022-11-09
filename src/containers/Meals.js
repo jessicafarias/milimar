@@ -16,7 +16,7 @@ const Meals = ({ meals, fetch }) => {
     if (category === 'FOOD') {
       fetch(FoodList);
     }
-    if (category === 'FREE PLACES TO VISIT') {
+    if (category === 'PLACES TO VISIT') {
       fetch(FreeList);
     }
     if (category === 'TOURS') {

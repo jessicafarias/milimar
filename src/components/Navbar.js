@@ -2,9 +2,9 @@ import '../styles/navbar.css';
 
 const Navbar = () => (
   <div className="bgc-blue navbar">
-    <div className="row justify-content-center align-items-center">
-      <div className="col-12 justify-content-center align-items-center">
-        <a className="regular" href="/">
+    <div className="row justify-content-center align-items-center m-0 p-0">
+      <div className="col-12 justify-content-center align-items-center m-0 p-0">
+        <a className="regular" href="/milimar">
           <svg
             version="1.1"
             id="Capa_1"
@@ -16,7 +16,7 @@ const Navbar = () => (
             style={{
               width: '100%',
               height: '100%',
-              padding: '15px',
+              padding: '0px',
               margin: '0px',
               color: '#abdbe3',
               display: 'flex',

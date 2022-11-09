@@ -18,7 +18,7 @@ const Item = ({
     background: url("${url}");
     background-attachment:fixed;
     background-size:cover;
-    background-position: center center;
+    background-position: 50% 50%;
   }`,
     <div className={`carousel-item ${stringclass}`}>
 

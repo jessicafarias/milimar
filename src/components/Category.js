@@ -11,7 +11,7 @@ const Category = ({ name, url, description }) => {
   }, []);
 
   return (
-    <Link className="regular" to={`/show/${name}`}>
+    <Link className="regular" to={`/milimar/show/${name}`}>
       <div className="relative_space">
         <div>
           <img src={url} alt={name} className="img_category" />

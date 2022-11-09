@@ -20,9 +20,9 @@ const Routes = () => (
     <BrowserRouter>
       <Switch>
         <Provider store={store}>
-          <Route exact path="/" component={Categories} />
-          <Route path="/show/:category" component={Meals} />
-          <Route path="/home" component={Categories} />
+          <Route exact path="/milimar/" component={Categories} />
+          <Route path="/milimar/show/:category" component={Meals} />
+          <Route path="/milimar/home" component={Categories} />
         </Provider>
         ,
       </Switch>

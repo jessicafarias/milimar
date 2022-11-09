@@ -17,7 +17,7 @@ const Categories = ({
   useEffect(() => {
     fetch([
       { name: 'FOOD', url: food, description: 'Recommended places to eat' },
-      { name: 'FREE PLACES TO VISIT', url: free, description: 'Recommended places to visit' },
+      { name: 'PLACES TO VISIT', url: free, description: 'Recommended places to visit' },
       { name: 'TOURS', url: tours, description: 'There are tours out there' },
       { name: 'EMERGENCY CONTACT', url: police, description: 'We care for you' },
     ]);

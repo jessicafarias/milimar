@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import '../styles/filter.css';
 
 const CategoryFilter = props => {
-  const categories = ['All', 'FOOD', 'FREE PLACES TO VISIT', 'TOURS', 'EMERGENCY CONTACT'];
+  const categories = ['All', 'FOOD', 'PLACES TO VISIT', 'TOURS', 'EMERGENCY CONTACT'];
   const { handleFilter } = props;
 
   const handleClick = event => {
