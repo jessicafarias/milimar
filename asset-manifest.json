@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/milimar/static/css/main.aeeee5a1.chunk.css",
-    "main.js": "/milimar/static/js/main.3b09100c.chunk.js",
-    "main.js.map": "/milimar/static/js/main.3b09100c.chunk.js.map",
+    "main.js": "/milimar/static/js/main.824aebf5.chunk.js",
+    "main.js.map": "/milimar/static/js/main.824aebf5.chunk.js.map",
     "runtime-main.js": "/milimar/static/js/runtime-main.547e34b5.js",
     "runtime-main.js.map": "/milimar/static/js/runtime-main.547e34b5.js.map",
     "static/css/2.150d169a.chunk.css": "/milimar/static/css/2.150d169a.chunk.css",
@@ -25,11 +25,14 @@
     "static/media/luna.6af1100d.jpg": "/milimar/static/media/luna.6af1100d.jpg",
     "static/media/mia.3ebe6dc1.jpg": "/milimar/static/media/mia.3ebe6dc1.jpg",
     "static/media/museo2.197d6bf4.jpg": "/milimar/static/media/museo2.197d6bf4.jpg",
+    "static/media/nomads.8d078cb0.jpg": "/milimar/static/media/nomads.8d078cb0.jpg",
     "static/media/oscars.e10c73cf.jpg": "/milimar/static/media/oscars.e10c73cf.jpg",
+    "static/media/picus.a2e457c4.jpg": "/milimar/static/media/picus.a2e457c4.jpg",
     "static/media/playanorte.b171e7d3.jpg": "/milimar/static/media/playanorte.b171e7d3.jpg",
     "static/media/police.cc3f665b.jpg": "/milimar/static/media/police.cc3f665b.jpg",
     "static/media/ptiburon.4772032c.jpg": "/milimar/static/media/ptiburon.4772032c.jpg",
     "static/media/puntasur3.43093670.jpg": "/milimar/static/media/puntasur3.43093670.jpg",
+    "static/media/selina.09082b2d.jpg": "/milimar/static/media/selina.09082b2d.jpg",
     "static/media/tiburon2.aad1ac91.jpg": "/milimar/static/media/tiburon2.aad1ac91.jpg"
   },
   "entrypoints": [
@@ -37,6 +40,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.f1dcecc5.chunk.js",
     "static/css/main.aeeee5a1.chunk.css",
-    "static/js/main.3b09100c.chunk.js"
+    "static/js/main.824aebf5.chunk.js"
   ]
 }
